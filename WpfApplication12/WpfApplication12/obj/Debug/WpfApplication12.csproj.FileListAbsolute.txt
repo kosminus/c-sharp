@@ -1,0 +1,15 @@
+c:\users\kosmin\documents\visual studio 2013\Projects\WpfApplication12\WpfApplication12\bin\Debug\WpfApplication12.exe.config
+c:\users\kosmin\documents\visual studio 2013\Projects\WpfApplication12\WpfApplication12\obj\Debug\WpfApplication12.csprojResolveAssemblyReference.cache
+c:\users\kosmin\documents\visual studio 2013\Projects\WpfApplication12\WpfApplication12\obj\Debug\MainWindow.baml
+c:\users\kosmin\documents\visual studio 2013\Projects\WpfApplication12\WpfApplication12\obj\Debug\MainWindow.g.cs
+c:\users\kosmin\documents\visual studio 2013\Projects\WpfApplication12\WpfApplication12\obj\Debug\App.g.cs
+c:\users\kosmin\documents\visual studio 2013\Projects\WpfApplication12\WpfApplication12\obj\Debug\WpfApplication12_MarkupCompile.cache
+c:\users\kosmin\documents\visual studio 2013\Projects\WpfApplication12\WpfApplication12\obj\Debug\WpfApplication12.g.resources
+c:\users\kosmin\documents\visual studio 2013\Projects\WpfApplication12\WpfApplication12\obj\Debug\WpfApplication12.Properties.Resources.resources
+c:\users\kosmin\documents\visual studio 2013\Projects\WpfApplication12\WpfApplication12\obj\Debug\WpfApplication12.csproj.GenerateResource.Cache
+c:\users\kosmin\documents\visual studio 2013\Projects\WpfApplication12\WpfApplication12\bin\Debug\WpfApplication12.exe
+c:\users\kosmin\documents\visual studio 2013\Projects\WpfApplication12\WpfApplication12\bin\Debug\WpfApplication12.pdb
+c:\users\kosmin\documents\visual studio 2013\Projects\WpfApplication12\WpfApplication12\bin\Debug\Oracle.DataAccess.dll
+c:\users\kosmin\documents\visual studio 2013\Projects\WpfApplication12\WpfApplication12\obj\Debug\WpfApplication12.exe
+c:\users\kosmin\documents\visual studio 2013\Projects\WpfApplication12\WpfApplication12\obj\Debug\WpfApplication12.pdb
+C:\Users\kosmin\Documents\Visual Studio 2013\Projects\WpfApplication12\WpfApplication12\obj\Debug\WpfApplication12.csproj.ResolveComReference.cache
