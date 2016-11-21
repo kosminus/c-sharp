@@ -1,3 +1,3 @@
-wpf application to conect to an oracle database
+wpf application to connect to an oracle database
 
 beta
