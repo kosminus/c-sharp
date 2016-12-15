@@ -1,0 +1,15 @@
+\\WWG00M.ROOTDOM.NET\DFS\home\Z5N9RWJ\Visual Studio 2015\Projects\WpfApplication6\WpfApplication6\bin\Debug\WpfApplication6.exe.config
+\\WWG00M.ROOTDOM.NET\DFS\home\Z5N9RWJ\Visual Studio 2015\Projects\WpfApplication6\WpfApplication6\bin\Debug\WpfApplication6.exe
+\\WWG00M.ROOTDOM.NET\DFS\home\Z5N9RWJ\Visual Studio 2015\Projects\WpfApplication6\WpfApplication6\bin\Debug\WpfApplication6.pdb
+\\WWG00M.ROOTDOM.NET\DFS\home\Z5N9RWJ\Visual Studio 2015\Projects\WpfApplication6\WpfApplication6\obj\Debug\ConvertDBF2CSV.g.cs
+\\WWG00M.ROOTDOM.NET\DFS\home\Z5N9RWJ\Visual Studio 2015\Projects\WpfApplication6\WpfApplication6\obj\Debug\App.g.cs
+\\WWG00M.ROOTDOM.NET\DFS\home\Z5N9RWJ\Visual Studio 2015\Projects\WpfApplication6\WpfApplication6\obj\Debug\WpfApplication6_MarkupCompile.cache
+\\WWG00M.ROOTDOM.NET\DFS\home\Z5N9RWJ\Visual Studio 2015\Projects\WpfApplication6\WpfApplication6\obj\Debug\WpfApplication6_MarkupCompile.lref
+\\WWG00M.ROOTDOM.NET\DFS\home\Z5N9RWJ\Visual Studio 2015\Projects\WpfApplication6\WpfApplication6\obj\Debug\ConvertDBF2CSV.baml
+\\WWG00M.ROOTDOM.NET\DFS\home\Z5N9RWJ\Visual Studio 2015\Projects\WpfApplication6\WpfApplication6\obj\Debug\WpfApplication6.g.resources
+\\WWG00M.ROOTDOM.NET\DFS\home\Z5N9RWJ\Visual Studio 2015\Projects\WpfApplication6\WpfApplication6\obj\Debug\WpfApplication6.Properties.Resources.resources
+\\WWG00M.ROOTDOM.NET\DFS\home\Z5N9RWJ\Visual Studio 2015\Projects\WpfApplication6\WpfApplication6\obj\Debug\WpfApplication6.csproj.GenerateResource.Cache
+\\WWG00M.ROOTDOM.NET\DFS\home\Z5N9RWJ\Visual Studio 2015\Projects\WpfApplication6\WpfApplication6\obj\Debug\WpfApplication6.exe
+\\WWG00M.ROOTDOM.NET\DFS\home\Z5N9RWJ\Visual Studio 2015\Projects\WpfApplication6\WpfApplication6\obj\Debug\WpfApplication6.pdb
+\\WWG00M.ROOTDOM.NET\DFS\home\Z5N9RWJ\Visual Studio 2015\Projects\WpfApplication6\WpfApplication6\obj\Debug\WpfApplication6.csprojResolveAssemblyReference.cache
+\\WWG00M.ROOTDOM.NET\DFS\home\Z5N9RWJ\Visual Studio 2015\Projects\WpfApplication6\WpfApplication6\obj\Debug\WpfApplication6.csproj.ResolveComReference.cache
